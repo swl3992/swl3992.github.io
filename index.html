@@ -17,7 +17,13 @@ my_gradient.addColorStop(0,"blue");
 my_gradient.addColorStop(1,"green");
 ctx.fillStyle=my_gradient;
 ctx.fillRect(0,0,1300,250);
-ctx.text(650,650,"text");
+ctx.font="30px Verdana";
+var gradient=ctx.createLinearGradient(0,0,c.width,0);
+gradient.addColorStop("0","magenta");
+gradient.addColorStop("0.5","blue");
+gradient.addColorStop("1.0","red");
+ctx.strokeStyle=gradient;
+ctx.strokeText("swl3992",600,125);
 </script>
 </section>
 
