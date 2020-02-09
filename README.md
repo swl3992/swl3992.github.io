@@ -14,6 +14,7 @@ Co-founder of SMARTsoft™
 ## 教育背景 EDUCATION BACKGROUND
 
 **合肥市和平小学 小学生** 
+
 $\color{blue}\texttt{2014.09 - 2020.06}$
 
 pupil, The Chinese Primary School of He Fei
