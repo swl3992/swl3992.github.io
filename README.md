@@ -17,6 +17,7 @@ Co-founder of SMARTsoft™
 
 $\color{blue}\texttt{2014.09 - 2020.06}$
 
+
 pupil, The Chinese Primary School of He Fei
 
 中国合肥 He Fei, China
